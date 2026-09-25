@@ -1,0 +1,6 @@
+{
+  "name": "MAGANGKU - Platform Magang Siswa & Mahasiswa",
+  "description": "Platform modern untuk siswa SMA/SMK dan mahasiswa mencari, mendaftar, dan mengelola program magang terpercaya di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
